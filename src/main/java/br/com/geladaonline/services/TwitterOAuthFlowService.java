@@ -17,8 +17,8 @@ public class TwitterOAuthFlowService {
 
 	public static final String OAUTH_TOKEN_FIELD = "oauth_token";
 
-	private static final String CONSUMER_KEY = "99viW3aGuXaCjcCmgBCOA";
-	private static final String CONSUMER_SECRET = "UHgI9BgC5gFsxSlh2SRfZppQEQnaetQ1Ts42c4r6O68";
+	private static final String CONSUMER_KEY = "7K8iNyTVD6Y9T4ScRxtpGEJjq";
+	private static final String CONSUMER_SECRET = "LdkJkoMSIeST1yAICFWkuxZoMTr7YgSpiTGgk8lO6uY1nU78vs";
 
 	public static String init(HttpServletRequest req) {
 
